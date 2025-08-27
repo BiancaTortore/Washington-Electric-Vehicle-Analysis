@@ -26,7 +26,7 @@ Some filtered views by car manufacturer:
 ---
 
 ## 📂 Repository Structure
-\`\`\`
+```
 Data/
 └── Electric_Vehicle_Population_Data.xlsx # Original dataset
 queries/
@@ -42,7 +42,7 @@ tableau/
 ├── EVs by Make- Ford.png
 └── EVs by Make- Audi.png
 README.md
-\`\`\`
+```
 
 ---
 
