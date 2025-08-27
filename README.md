@@ -30,7 +30,7 @@ Some filtered views by car manufacturer:
 Data/
 └── Electric_Vehicle_Population_Data.xlsx # Original dataset
 queries/
-├── avg_range_by_make.sql.sql # Avg EV range by make
+├── avg_range_by_make.sql # Avg EV range by make
 ├── ev_by_model_year.sql # Vehicles by model year
 ├── ev_by_type.sql # Distribution by EV type
 ├── ev_count_by_make.sql # Count of EVs per make
@@ -47,11 +47,11 @@ README.md
 ---
 
 ## 🔎 SQL Queries
-1. **`ev_count_by_make.sql`** → Number of EVs by manufacturer:contentReference[oaicite:0]{index=0}  
-2. **`ev_by_type.sql`** → Distribution of EV type (BEV vs PHEV):contentReference[oaicite:1]{index=1}  
-3. **`avg_range_by_make.sql`** → Average electric range by manufacturer:contentReference[oaicite:2]{index=2}  
-4. **`ev_by_model_year.sql`** → EV registrations per model year:contentReference[oaicite:3]{index=3}  
-5. **`top10_cities_ev.sql`** → Top 10 cities with the highest EV registrations:contentReference[oaicite:4]{index=4}  
+1. **ev_count_by_make.sql** → Number of EVs by manufacturer  
+2. **ev_by_type.sql** → Distribution of EV type (BEV vs PHEV)  
+3. **avg_range_by_make.sql** → Average electric range by manufacturer  
+4. **ev_by_model_year.sql** → EV registrations per model year  
+5. **top10_cities_ev.sql** → Top 10 cities with the highest EV registrations  
 
 ---
 
@@ -62,5 +62,5 @@ README.md
 
 ---
 
-## 📌 Author
+## 👩‍💻 Author
 Bianca Tortore 📍 Based in Berlin, Germany 🌐 Spanish | English | Italian | Learning German (A1) 🔗 [LinkedIn](https://www.linkedin.com/in/bianca-tortore-818349150/)  
