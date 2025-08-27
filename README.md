@@ -14,6 +14,7 @@ Interactive dashboard published on Tableau Public:
 Some filtered views by car manufacturer:
 
 **EVs by Make – Tesla**  
+
 ![EVs by Make - Tesla](tableau/screenshots/EVs%20by%20Make-%20Tesla.png)
 
 **EVs by Make – Ford**  
@@ -25,6 +26,7 @@ Some filtered views by car manufacturer:
 ---
 
 ## 📂 Repository Structure
+\`\`\`
 Data/
 └── Electric_Vehicle_Population_Data.xlsx # Original dataset
 queries/
@@ -40,6 +42,7 @@ tableau/
 ├── EVs by Make- Ford.png
 └── EVs by Make- Audi.png
 README.md
+\`\`\`
 
 ---
 
