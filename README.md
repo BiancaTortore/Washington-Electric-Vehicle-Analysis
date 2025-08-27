@@ -15,13 +15,13 @@ Some filtered views by car manufacturer:
 
 **EVs by Make – Tesla**  
 
-![EVs by Make - Tesla](tableau/screenshots/EVs%20by%20Make-%20Tesla.png)
+![EVs by Make - Tesla](tableau/screenshots%20/EVs_by_Make-%20Tesla.png)
 
 **EVs by Make – Ford**  
-![EVs by Make - Ford](tableau/screenshots/EVs%20by%20Make-%20Ford.png)
+![EVs by Make - Ford](tableau/screenshots%20/EVs_by_Make-%20Ford.png)
 
 **EVs by Make – Audi**  
-![EVs by Make - Audi](tableau/screenshots/EVs%20by%20Make-%20Audi.png)
+![EVs by Make - Audi](tableau/screenshots%20/EVs_by_Make-%20Audi.png)
 
 ---
 
