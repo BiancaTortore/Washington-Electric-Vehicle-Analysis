@@ -46,9 +46,6 @@ README.md
 
 ---
 
-
----
-
 ## 🔎 SQL Queries
 1. **`ev_count_by_make.sql`** → Number of EVs by manufacturer:contentReference[oaicite:0]{index=0}  
 2. **`ev_by_type.sql`** → Distribution of EV type (BEV vs PHEV):contentReference[oaicite:1]{index=1}  
@@ -66,5 +63,4 @@ README.md
 ---
 
 ## 📌 Author
-Bianca Tortore  
-🔗 [LinkedIn](https://www.linkedin.com/in/bianca-tortore-818349150/)  
+Bianca Tortore 📍 Based in Berlin, Germany 🌐 Spanish | English | Italian | Learning German (A1) 🔗 [LinkedIn](https://www.linkedin.com/in/bianca-tortore-818349150/)  
